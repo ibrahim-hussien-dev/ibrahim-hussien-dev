@@ -1,12 +1,12 @@
 <h2><img src="https://emojis.slackmojis.com/emojis/images/1531849430/4246/blob-sunglasses.gif?1531849430" width="30"/> I'm Ibrahim Hussien <img src="https://media.giphy.com/media/12oufCB0MyZ1Go/giphy.gif" width="50"></h2>
 <div align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?color=aa79e9&size=30&center=true&vCenter=true&width=600&height=30&lines=I'm+a...;Software+Developer;Web+Developer;MERN+Stack;Software+Engineer;"/>
+  <img src="https://readme-typing-svg.herokuapp.com?color=aa79e9&size=30&center=true&vCenter=true&width=600&height=30&lines=I'm+a...;Software+Developer;Web+Developer;MEARN+Stack;Software+Engineer;"/>
 </div>
 <img align='right' src="https://media.giphy.com/media/M9gbBd9nbDrOTu1Mqx/giphy.gif" width="230">
 <P>
 <strong> 💫 About Me:</strong>
 <br>
-Hi 👋 I'm a MERN Stack Web Developer focused on building scalable, user-friendly, and high-performance web applications.<br><br>I enjoy working with:<br>• MongoDB • Express.js • React.js • Node.js<br>• REST APIs • JWT Authentication • Redux<br>• Git / GitHub • MongoDB Atlas • Vercel<br> • Html • Css • Js • Java • SQL • Python<br>I’m passionate about solving real-world problems, writing clean code, and continuously improving my skills.  <br>Let’s build something great 🚀<br><br>👋 Hello! I'm a MERN Stack Developer who loves turning ideas into real, functional, and impactful web applications.<br><br>💻 What I Do<br>• Build full-stack web apps using MERN<br>• Create responsive and modern UIs<br>• Design secure REST APIs & authentication systems<br>• Work with databases and cloud deployment<br><br>🎯 My Focus<br>Performance • Scalability • Clean Code • User Experience<br><br>🚀 Always learning. Always improving.<br>
+Hi 👋 I'm a MERN Stack Web Developer focused on building scalable, user-friendly, and high-performance web applications.<br><br>I enjoy working with:<br>• MongoDB • Express.js • React.js • Angular • Node.js<br>• REST APIs • JWT Authentication • Redux<br>• Git / GitHub • MongoDB Atlas • Vercel<br> • Html • Css • Js • Java • SQL • Python<br>I’m passionate about solving real-world problems, writing clean code, and continuously improving my skills.  <br>Let’s build something great 🚀<br><br>👋 Hello! I'm a MERN Stack Developer who loves turning ideas into real, functional, and impactful web applications.<br><br>💻 What I Do<br>• Build full-stack web apps using MERN<br>• Create responsive and modern UIs<br>• Design secure REST APIs & authentication systems<br>• Work with databases and cloud deployment<br><br>🎯 My Focus<br>Performance • Scalability • Clean Code • User Experience<br><br>🚀 Always learning. Always improving.<br>
 </P>
   
 
