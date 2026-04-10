@@ -1,37 +1,306 @@
-<h2><img src="https://emojis.slackmojis.com/emojis/images/1531849430/4246/blob-sunglasses.gif?1531849430" width="30"/> I'm Ibrahim Hussien <img src="https://media.giphy.com/media/12oufCB0MyZ1Go/giphy.gif" width="50"></h2>
 <div align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?color=aa79e9&size=30&center=true&vCenter=true&width=600&height=30&lines=I'm+a...;Software+Developer;Web+Developer;MEARN+Stack;Software+Engineer;"/>
+
+<!-- ░░░░░░░░░░░░░░░░ ANIMATED HEADER ░░░░░░░░░░░░░░░░ -->
+<img src="https://capsule-render.vercel.app/api?type=waving&height=280&color=0:080808,20:0f172a,45:312e81,70:06b6d4,100:0ea5e9&text=Ibrahim%20Hussien&fontSize=64&fontColor=22d3ee&animation=twinkling&fontAlignY=42&desc=MEARN%20Stack%20Engineer%20•%20Open%20Source%20•%20Angular%20Contributor&descAlignY=63&descSize=18" width="100%" alt="header"/>
+<img src="https://github.com/Platane/snk/raw/output/github-contribution-grid-snake-dark.svg" width="100%" alt="snake animation"/>
+
+
+<!-- ░░░░░░░░░░░░░░░░ TYPING ANIMATION ░░░░░░░░░░░░░░░░ -->
+<a href="https://git.io/typing-svg">
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=700&size=24&duration=2200&pause=900&color=22D3EE&center=true&vCenter=true&random=false&width=700&height=60&lines=%3E+Initializing+developer+mode...+%E2%9C%93;%3E+Stack%3A+MongoDB+%7C+Express+%7C+Angular+%7C+React+%7C+Node;%3E+sudo+apt-get+install+-y+passion+%26%26+caffeine;%3E+git+commit+-m+'another+sleepless+night+%F0%9F%92%80';%3E+while(alive)+%7B+eat()%3B+sleep()%3B+code()%3B+%7D;%3E+open+source+contributor+%7C+Angular+team+%F0%9F%94%BA;%3E+AI+tools+user+%7C+Claude+%7C+ChatGPT+%7C+Gemini+%F0%9F%A4%96" alt="Typing SVG" />
+</a>
+
+<br/>
+
+<!-- ░░░░░░░░░░░░░░░░ SOCIAL BADGES ░░░░░░░░░░░░░░░░ -->
+<p align="center">
+  <a href="https://www.linkedin.com/in/ibrahim-hussien-dev/"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"/></a>
+  <a href="mailto:ibrahimhussien754@gmail.com"><img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white"/></a>
+  <a href="https://github.com/ibrahim-hussien-dev"><img src="https://img.shields.io/badge/GitHub-7b2fff?style=for-the-badge&logo=github&logoColor=white"/></a>
+</p>
+
+<p align="center">
+  <img src="https://komarev.com/ghpvc/?username=ibrahim-hussien-dev&label=Profile+Views&color=22D3EE&style=for-the-badge"/>
+  <img src="https://img.shields.io/github/followers/ibrahim-hussien-dev?label=Followers&style=for-the-badge&color=7b2fff"/>
+  <img src="https://img.shields.io/github/stars/ibrahim-hussien-dev?label=Stars&style=for-the-badge&color=bd93f9"/>
+</p>
+
+<a href="https://trendshift.io/developers/2235" target="_blank">
+  <img src="https://trendshift.io/api/badge/developers/2235" alt="Trendshift" width="250" height="55"/>
+</a>
+
 </div>
-<img align='right' src="https://media.giphy.com/media/M9gbBd9nbDrOTu1Mqx/giphy.gif" width="230">
-<P>
-<strong> 💫 About Me:</strong>
+
+<!-- ░░░░░░░░░░░░░░░░ WAVE DIVIDER ░░░░░░░░░░░░░░░░ -->
+<img src="https://user-images.githubusercontent.com/74038190/212284100-561aa473-3905-4a80-b561-0d28506553ee.gif" width="100%">
+
+## 🧑‍💻 About Me
+
+<img align="right"  src="https://media.giphy.com/media/f3iwJFOVOwuy7K6FFw/giphy.gif" width="280" alt="Coding"/>
+
+```bash
+╔══════════════════════════════════════════╗
+║         /etc/ibrahim.profile             ║
+╠══════════════════════════════════════════╣
+║  NAME     = "Ibrahim Hussien"            ║
+║  ROLE     = "MEARN Stack Developer"      ║
+║  CAFFEINE = true        # always         ║
+║  SLEEP    = false       # optional       ║
+║  ANGULAR  = "Contributor @ Angular "     ║
+╚══════════════════════════════════════════╝
+```
+
+```javascript
+class Ibrahim extends Developer {
+  name = "Ibrahim Hussien";
+  location = "🌍 Alexandria, Egypt";
+  role = "💼 MEARN Stack Developer & AI Enthusiast";
+  setup = "💻 Dev Rig | ⌨️ VS Code";
+
+  currentlyWorking = "🚀 Building scalable, high-performance web apps with MERN & Angular";
+  currentlyLearning = ["AI Agents", "Prompt Engineering", "SAP S/4HANA"];
+  lookingFor = "🤝 Open source collaborations, exciting projects, & preparing for my Master's journey";
+  askMeAbout = "💬 MERN stack, Business Analysis, Product Ownership, or European football transfers ⚽";
+
+  languages = ["JavaScript", "TypeScript", "Python", "Java", "SQL", "HTML5", "CSS3"];
+
+  technologies = {
+    frontend: {
+      frameworks: ["React.js", "Angular", "Next.js"],
+      styling: ["TailwindCSS", "Bootstrap", "CSS3"],
+      stateManagement: ["Redux", "React Query"],
+      formHandling: ["React Hook Form","React Formik"]
+    },
+    backend: {
+      runtime: ["Node.js","Java"],
+      frameworks: ["Express.js", "NestJS"],
+      databases: ["MongoDB", "MySQL", "Microsoft SQL Server"],
+      apis: ["REST", "GraphQL", "Socket.io"]
+    },
+    devOps: {
+      tools: ["Git", "GitHub Actions", "GitLab CI"],
+      deployment: ["Vercel", "AWS", "Google Cloud", "Azure"],
+      testingAndApi: ["Postman"]
+    },
+    analysisAndDesign: {
+      tools: ["Figma", "Canva", "Notion", "Power BI"],
+      principles: ["Business Analysis", "Product Ownership", "Clean Code","Design Patterns"]
+    }
+  };
+
+  workingWith = {
+    os: "Windows / Linux",
+    editor: "VS Code with Tokyo Night theme",
+    browser: "Chrome DevTools ninja 🥷"
+  };
+
+  aiTools = ["Claude 🤖", "ChatGPT ✨", "Gemini ⭐"];
+
+  funFacts = [
+    "🎓 ITI Trainee",
+    "🎬 Creator of 'Zatona in AI' (The Gist of AI) tech content series",
+    "⚽ Massive European football fan – test my knowledge on historical match stats!",
+    "☕ Powered by passion, espresso shots, and solving real-world problems",
+    "🌙 Night owl who writes 'another sleepless night' in commit messages",
+    "🧠 Balancing clean code architecture with a deep interest in AI"
+  ];
+
+  mission = "💡 Turn ☕ into working software. Learn. Build. Iterate.";
+  philosophy = "Clean code, scalable systems, happy user 😊";
+
+  code() {
+    while (true) {
+      this.analyzeRequirements();
+      this.learn();
+      this.build();
+      this.ship(); // never.stop()
+    }
+  }
+}
+```
+
+<br clear="right"/>
+
+<!-- ░░░░░░░░░░░░░░░░ WAVE DIVIDER ░░░░░░░░░░░░░░░░ -->
+<img src="https://user-images.githubusercontent.com/74038190/212284100-561aa473-3905-4a80-b561-0d28506553ee.gif" width="100%">
+
+## 🛠️ Tech Arsenal
+
+<div align="center">
+
+<details open>
+<summary><b>⚡ Frontend</b></summary>
 <br>
-Hi 👋 I'm a MEARN Stack Web Developer focused on building scalable, user-friendly, and high-performance web applications.<br><br>I enjoy working with:<br>• MongoDB • Express.js • React.js • Angular • Node.js<br>• REST APIs • JWT Authentication • Redux<br>• Git / GitHub • MongoDB Atlas • Vercel<br> • Html • Css • Js • Java • SQL • Python<br>I’m passionate about solving real-world problems, writing clean code, and continuously improving my skills.  <br>Let’s build something great 🚀<br><br>👋 Hello! I'm a MEARN Stack Developer who loves turning ideas into real, functional, and impactful web applications.<br><br>💻 What I Do<br>• Build full-stack web apps using MERN<br>• Create responsive and modern UIs<br>• Design secure REST APIs & authentication systems<br>• Work with databases and cloud deployment<br><br>🎯 My Focus<br>Performance • Scalability • Clean Code • User Experience<br><br>🚀 Always learning. Always improving.<br>
-</P>
-  
+<img src="https://skillicons.dev/icons?i=html,css,js,ts,react,angular,nextjs,redux,bootstrap,tailwind,materialui,sass,jquery,figma,vite,webpack&theme=dark&perline=8"/>
+</details>
 
+<br/>
 
-## 🌐 Socials:
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://www.linkedin.com/in/ibrahim-hussien-dev/) [![email](https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white)](mailto:ibrahimhussien754@gmail.com) 
+<details open>
+<summary><b>🔧 Backend & Languages</b></summary>
+<br>
+<img src="https://skillicons.dev/icons?i=nodejs,express,nestjs,python,java,graphql&theme=dark&perline=8"/>
+</details>
 
-<a href="https://trendshift.io/developers/2235" target="_blank"><img src="https://trendshift.io/api/badge/developers/2235" alt="ibrahim-hussien-dev | Trendshift" style="width: 250px; height: 55px;" width="250" height="55"/></a>
+<br/>
 
-# 💻 Tech Stack:
-![HTML5](https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white) ![Java](https://img.shields.io/badge/java-%23ED8B00.svg?style=for-the-badge&logo=openjdk&logoColor=white) ![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E) ![CSS3](https://img.shields.io/badge/css3-%231572B6.svg?style=for-the-badge&logo=css3&logoColor=white) ![GraphQL](https://img.shields.io/badge/-GraphQL-E10098?style=for-the-badge&logo=graphql&logoColor=white) ![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54) ![AWS](https://img.shields.io/badge/AWS-%23FF9900.svg?style=for-the-badge&logo=amazon-aws&logoColor=white) ![Vercel](https://img.shields.io/badge/vercel-%23000000.svg?style=for-the-badge&logo=vercel&logoColor=white) ![Google Cloud](https://img.shields.io/badge/GoogleCloud-%234285F4.svg?style=for-the-badge&logo=google-cloud&logoColor=white) ![Azure](https://img.shields.io/badge/azure-%230072C6.svg?style=for-the-badge&logo=microsoftazure&logoColor=white) ![Angular](https://img.shields.io/badge/angular-%23DD0031.svg?style=for-the-badge&logo=angular&logoColor=white) ![Angular.js](https://img.shields.io/badge/angular.js-%23E23237.svg?style=for-the-badge&logo=angularjs&logoColor=white) ![Bootstrap](https://img.shields.io/badge/bootstrap-%238511FA.svg?style=for-the-badge&logo=bootstrap&logoColor=white) ![Express.js](https://img.shields.io/badge/express.js-%23404d59.svg?style=for-the-badge&logo=express&logoColor=%2361DAFB) ![JWT](https://img.shields.io/badge/JWT-black?style=for-the-badge&logo=JSON%20web%20tokens) ![jQuery](https://img.shields.io/badge/jquery-%230769AD.svg?style=for-the-badge&logo=jquery&logoColor=white) ![NPM](https://img.shields.io/badge/NPM-%23CB3837.svg?style=for-the-badge&logo=npm&logoColor=white) ![Next JS](https://img.shields.io/badge/Next-black?style=for-the-badge&logo=next.js&logoColor=white) ![NestJS](https://img.shields.io/badge/nestjs-%23E0234E.svg?style=for-the-badge&logo=nestjs&logoColor=white) ![NodeJS](https://img.shields.io/badge/node.js-6DA55F?style=for-the-badge&logo=node.js&logoColor=white) ![React](https://img.shields.io/badge/react-%2320232a.svg?style=for-the-badge&logo=react&logoColor=%2361DAFB) ![React Query](https://img.shields.io/badge/-React%20Query-FF4154?style=for-the-badge&logo=react%20query&logoColor=white) ![React Router](https://img.shields.io/badge/React_Router-CA4245?style=for-the-badge&logo=react-router&logoColor=white) ![React Hook Form](https://img.shields.io/badge/React%20Hook%20Form-%23EC5990.svg?style=for-the-badge&logo=reacthookform&logoColor=white) ![Redux](https://img.shields.io/badge/redux-%23593d88.svg?style=for-the-badge&logo=redux&logoColor=white) ![Socket.io](https://img.shields.io/badge/Socket.io-black?style=for-the-badge&logo=socket.io&badgeColor=010101) ![WordPress](https://img.shields.io/badge/WordPress-%23117AC9.svg?style=for-the-badge&logo=WordPress&logoColor=white) ![MicrosoftSQLServer](https://img.shields.io/badge/Microsoft%20SQL%20Server-CC2927?style=for-the-badge&logo=microsoft%20sql%20server&logoColor=white) ![MongoDB](https://img.shields.io/badge/MongoDB-%234ea94b.svg?style=for-the-badge&logo=mongodb&logoColor=white) ![MySQL](https://img.shields.io/badge/mysql-4479A1.svg?style=for-the-badge&logo=mysql&logoColor=white) ![Canva](https://img.shields.io/badge/Canva-%2300C4CC.svg?style=for-the-badge&logo=Canva&logoColor=white) ![Framer](https://img.shields.io/badge/Framer-black?style=for-the-badge&logo=framer&logoColor=blue) ![Figma](https://img.shields.io/badge/figma-%23F24E1E.svg?style=for-the-badge&logo=figma&logoColor=white) ![GitHub Actions](https://img.shields.io/badge/github%20actions-%232671E5.svg?style=for-the-badge&logo=githubactions&logoColor=white) ![GitLab CI](https://img.shields.io/badge/gitlab%20CI-%23181717.svg?style=for-the-badge&logo=gitlab&logoColor=white) ![GitHub](https://img.shields.io/badge/github-%23121011.svg?style=for-the-badge&logo=github&logoColor=white) ![Git](https://img.shields.io/badge/git-%23F05033.svg?style=for-the-badge&logo=git&logoColor=white) ![Notion](https://img.shields.io/badge/Notion-%23000000.svg?style=for-the-badge&logo=notion&logoColor=white) ![Power Bi](https://img.shields.io/badge/power_bi-F2C811?style=for-the-badge&logo=powerbi&logoColor=black) ![Postman](https://img.shields.io/badge/Postman-FF6C37?style=for-the-badge&logo=postman&logoColor=white)
-# 📊 GitHub Stats:
-![](https://github-readme-stats.vercel.app/api?username=ibrahim-hussien-dev&theme=tokyonight&hide_border=false&include_all_commits=false&count_private=false)<br/>
-![](https://nirzak-streak-stats.vercel.app/?user=ibrahim-hussien-dev&theme=tokyonight&hide_border=false)<br/>
-![](https://github-readme-stats.vercel.app/api/top-langs/?username=ibrahim-hussien-dev&theme=tokyonight&hide_border=false&include_all_commits=false&count_private=false&layout=compact)
+<details open>
+<summary><b>🗄️ Databases</b></summary>
+<br>
+<img src="https://skillicons.dev/icons?i=mongodb,mysql,postgres,redis&theme=dark&perline=8"/>
+</details>
 
+<br/>
 
-## 🏆 GitHub Trophies
-![](https://github-profile-trophy.vercel.app/?username=ibrahim-hussien-dev&theme=radical&no-frame=false&no-bg=true&margin-w=4)
+<details open>
+<summary><b>☁️ Cloud · DevOps · Tools</b></summary>
+<br>
+<img src="https://skillicons.dev/icons?i=aws,gcp,azure,vercel,git,github,gitlab,docker,postman,vscode,notion,wordpress,npm,jest,linux&theme=dark&perline=8"/>
+</details>
 
-### ✍️ Random Dev Quote
-![](https://quotes-github-readme.vercel.app/api?type=vetical&theme=dark)
+<br/>
 
-### 🔝 Top Contributed Repo
-![](https://github-contributor-stats.vercel.app/api?username=ibrahim-hussien-dev&limit=5&theme=dark&combine_all_yearly_contributions=true)
+<details open>
+<summary><b>🤖 AI Tools I Use Daily</b></summary>
+<br>
 
----
-[![](https://visitcount.itsvg.in/api?id=ibrahim-hussien-dev&icon=0&color=0)](https://visitcount.itsvg.in)
+<table align="center">
+<tr>
+<td align="center" width="160">
+  <img src="https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExdGd5bjkwc3F3dHlsaG43ZXFna2QwbGVxbjVsMzE1bWlyaXRkbHd2eiZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9cw/QTfX9Ejfra3ZmNxh6B/giphy.gif" width="80" alt="Claude"/>
+  <br/>
+  <img src="https://img.shields.io/badge/Claude-D97757?style=for-the-badge&logo=anthropic&logoColor=white"/>
+  <br/><sub><b>Claude Code 🪄</b></sub>
+</td>
+<td align="center" width="160">
+  <img src="https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExaWxzOWd1bWo1aTBtY3ZkMXp2a2Z3ZXY4ZnBhbzNpYzV0azFpNzgzeSZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9cw/26n6ziTnTKMbCpBwA/giphy.gif" width="80" alt="ChatGPT"/>
+  <br/>
+  <img src="https://img.shields.io/badge/ChatGPT-74aa9c?style=for-the-badge&logo=openai&logoColor=white"/>
+  <br/><sub><b>ChatGPT ✨</b></sub>
+</td>
+<td align="center" width="160">
+  <img src="https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExamZzanMzbXlpcno3aGFtZjE0ZzFqa2JsY2I5bjhna2hjanR4dHFocCZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9cw/3oKIPnAiaMCws8nOsE/giphy.gif" width="80" alt="Gemini"/>
+  <br/>
+  <img src="https://img.shields.io/badge/Gemini-8E75B2?style=for-the-badge&logo=googlegemini&logoColor=white"/>
+  <br/><sub><b>Gemini ⭐</b></sub>
+</td>
+<td align="center" width="160">
+  <img src="https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExdDJ2ZHBudnkycTdmNmxpenRyZGszdGljMXA0bDhrc3pvd2h2N3Q5eSZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9cw/077i6AULCXc0FKTj9s/giphy.gif" width="80" alt="Copilot"/>
+  <br/>
+  <img src="https://img.shields.io/badge/GitHub%20Copilot-000000?style=for-the-badge&logo=github&logoColor=white"/>
+  <br/><sub><b>Copilot 🤝</b></sub>
+</td>
+</tr>
+</table>
+
+</details>
+
+<br/>
+
+<details open>
+<summary><b>🏗️ Design Patterns & Architecture</b></summary>
+<br>
+
+<p align="center">
+  <img src="https://img.shields.io/badge/MVC-Architecture-64ffda?style=for-the-badge&logoColor=white"/>
+  <img src="https://img.shields.io/badge/SOLID-Principles-7b2fff?style=for-the-badge&logoColor=white"/>
+  <img src="https://img.shields.io/badge/Repository-Pattern-bd93f9?style=for-the-badge&logoColor=white"/>
+  <img src="https://img.shields.io/badge/Observer-Pattern-64ffda?style=for-the-badge&logoColor=white"/>
+  <img src="https://img.shields.io/badge/Singleton-Pattern-7b2fff?style=for-the-badge&logoColor=white"/>
+  <img src="https://img.shields.io/badge/Factory-Pattern-bd93f9?style=for-the-badge&logoColor=white"/>
+  <img src="https://img.shields.io/badge/Decorator-Pattern-64ffda?style=for-the-badge&logoColor=white"/>
+  <img src="https://img.shields.io/badge/RESTful-API%20Design-7b2fff?style=for-the-badge&logoColor=white"/>
+  <img src="https://img.shields.io/badge/Microservices-Architecture-bd93f9?style=for-the-badge&logoColor=white"/>
+  <img src="https://img.shields.io/badge/Clean-Architecture-64ffda?style=for-the-badge&logoColor=white"/>
+</p>
+
+</details>
+
+</div>
+
+<!-- ░░░░░░░░░░░░░░░░ WAVE DIVIDER ░░░░░░░░░░░░░░░░ -->
+<img src="https://user-images.githubusercontent.com/74038190/212284100-561aa473-3905-4a80-b561-0d28506553ee.gif" width="100%">
+
+## 📊 GitHub Analytics
+
+<div align="center">
+
+<img height="180em" src="https://github-readme-stats.vercel.app/api?username=ibrahim-hussien-dev&show_icons=true&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=64FFDA&icon_color=64FFDA&text_color=FFFFFF&include_all_commits=true&count_private=true&rank_icon=github"/>
+<img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=ibrahim-hussien-dev&layout=compact&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=64FFDA&text_color=FFFFFF&langs_count=10"/>
+
+<br/>
+
+<img src="https://github-readme-streak-stats.herokuapp.com/?user=ibrahim-hussien-dev&theme=tokyonight&hide_border=true&background=0D1117&ring=64FFDA&fire=bd93f9&currStreakLabel=64FFDA&sideLabels=FFFFFF&currStreakNum=FFFFFF&sideNums=FFFFFF" width="60%"/>
+
+<br/><br/>
+
+<img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=ibrahim-hussien-dev&theme=tokyonight" width="100%"/>
+
+</div>
+
+<!-- ░░░░░░░░░░░░░░░░ WAVE DIVIDER ░░░░░░░░░░░░░░░░ -->
+<img src="https://user-images.githubusercontent.com/74038190/212284100-561aa473-3905-4a80-b561-0d28506553ee.gif" width="100%">
+
+## 📈 Contribution Activity
+
+<div align="center">
+
+<img src="https://github-readme-activity-graph.vercel.app/graph?username=ibrahim-hussien-dev&theme=tokyo-night&hide_border=true&bg_color=0D1117&color=64FFDA&line=7b2fff&point=bd93f9&area=true&custom_title=Ibrahim%27s+Contribution+Activity" width="100%"/>
+
+</div>
+
+<!-- ░░░░░░░░░░░░░░░░ WAVE DIVIDER ░░░░░░░░░░░░░░░░ -->
+<img src="https://user-images.githubusercontent.com/74038190/212284100-561aa473-3905-4a80-b561-0d28506553ee.gif" width="100%">
+
+## 🏆 Achievements
+
+<div align="center">
+
+<img src="https://github-profile-trophy.vercel.app/?username=ibrahim-hussien-dev&theme=tokyonight&no-frame=true&no-bg=true&margin-w=6&column=7"/>
+
+</div>
+
+<!-- ░░░░░░░░░░░░░░░░ WAVE DIVIDER ░░░░░░░░░░░░░░░░ -->
+<img src="https://user-images.githubusercontent.com/74038190/212284100-561aa473-3905-4a80-b561-0d28506553ee.gif" width="100%">
+
+## 💡 Dev Wisdom
+
+<div align="center">
+
+<img src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=tokyonight&border=true" width="100%"/>
+
+</div>
+
+<!-- ░░░░░░░░░░░░░░░░ WAVE DIVIDER ░░░░░░░░░░░░░░░░ -->
+<img src="https://user-images.githubusercontent.com/74038190/212284100-561aa473-3905-4a80-b561-0d28506553ee.gif" width="100%">
+
+## 🤝 Let's Connect & Build
+
+<div align="center">
+
+<p align="center">
+  <img src="https://img.shields.io/badge/💼_Open_to_Work-Available-success?style=for-the-badge"/>
+  <img src="https://img.shields.io/badge/🔴_Angular-Contributor-red?style=for-the-badge"/>
+  <img src="https://img.shields.io/badge/🤝_Collaborations-Welcome-7b2fff?style=for-the-badge"/>
+</p>
+
+</div>
+
+<!-- ░░░░░░░░░░░░░░░░ FOOTER ░░░░░░░░░░░░░░░░ -->
+<img src="https://user-images.githubusercontent.com/74038190/212284100-561aa473-3905-4a80-b561-0d28506553ee.gif" width="100%">
+
+<div align="center">
+
+<a href="https://git.io/typing-svg">
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=15&duration=3500&pause=600&color=BD93F9&center=true&vCenter=true&width=620&lines=Thanks+for+visiting+%F0%9F%91%BE+%7C+Let%27s+build+something+legendary;Star+%E2%AD%90+my+repos+if+you+find+them+useful!;Always+learning.+Always+shipping.+%F0%9F%9A%80" alt="Footer typing"/>
+</a>
+
+<br/>
+
+<img src="https://raw.githubusercontent.com/Trilokia/Trilokia/379277808c61ef204768a61bbc5d25bc7798ccf1/bottom_header.svg" width="100%"/>
+
+**Made with ❤️ and ☕ by [Ibrahim Hussien](https://github.com/ibrahim-hussien-dev)**
+
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0d0d1a,40:1a0533,70:0d2240,100:0d0d1a&height=140&section=footer&text=%3E+EOF&fontSize=26&fontColor=64ffda&animation=twinkling&fontAlignY=70" width="100%"/>
+
+</div>
