@@ -58,8 +58,8 @@ class Ibrahim extends Developer {
   setup = "💻 Dev Rig | ⌨️ VS Code";
 
   currentlyWorking = "🚀 Building scalable, high-performance web apps with MERN & Angular";
-  currentlyLearning = ["AI Agents", "Prompt Engineering", "SAP S/4HANA"];
-  lookingFor = "🤝 Open source collaborations, exciting projects, & preparing for my Master's journey";
+  currentlyLearning = ["AI in practice", "How real systems are built", "Clean & scalable code"];
+  lookingFor = "⚡ Real projects, smart collaborations, and turning ideas into working products";
   askMeAbout = "💬 MERN stack, Business Analysis, Product Ownership, or European football transfers ⚽";
 
   languages = ["JavaScript", "TypeScript", "Python", "Java", "SQL", "HTML5", "CSS3"];
